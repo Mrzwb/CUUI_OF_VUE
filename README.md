@@ -1,12 +1,13 @@
 # cuui_of_vue
 
-an mobile UI component lib based on vue2.x
+an mobile UI component lib based on vue 2.6.11
 
+### DEMO
+https://mrzwb.github.io/CUUI_OF_VUE
 ```
 using npm registry=https://registry.npmjs.org/
 ```
-
-## Project setup
+### Project setup
 ```
 yarn install
 ```
