@@ -13,11 +13,11 @@ export default {
 const Template = (args, { argTypes }) => ({
     props: Object.keys(argTypes),
     components: { CuButton },
-    template: '<my-button @onClick="onClick" v-bind="$props" />',
+    template: '<cu-button @onClick="onClick" v-bind="$props" >{{$props.label}}</cu-button>',
   });
   
   export const Primary = Template.bind({});
   Primary.args = {
-    primary: true,
-    label: 'Button',
+    type: 'primary',
+    label: '京西商券',
   };
