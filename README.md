@@ -2,6 +2,10 @@
 
 an mobile UI component lib based on vue2.x
 
+```
+using npm registry=https://registry.npmjs.org/
+```
+
 ## Project setup
 ```
 yarn install
@@ -12,9 +16,24 @@ yarn install
 yarn dev
 ```
 
+### Compiles and hot-reloads for storybook
+```
+yarn doc
+```
+
 ### Compiles and minifies for production
 ```
 yarn build
+```
+
+### Compiles and minifies for production as library
+```
+yarn build:lib
+```
+
+### Compiles and minifies for production as document
+```
+yarn build:doc
 ```
 
 ### Run your unit tests
