@@ -1,6 +1,6 @@
 # cuui_of_vue
 
-an mobile UI component lib based on vue2.x
+an mobile UI component lib based on vue 2.6.x
 
 ```
 using npm registry=https://registry.npmjs.org/
