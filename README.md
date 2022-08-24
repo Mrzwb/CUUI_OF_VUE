@@ -1,5 +1,7 @@
 # cuui_of_vue
 
+an mobile UI component lib based on vue2.x
+
 ## Project setup
 ```
 yarn install
@@ -7,7 +9,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn dev
 ```
 
 ### Compiles and minifies for production
